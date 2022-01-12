@@ -14,7 +14,7 @@
     <name>CODM Loadout Stats</name>
     <description>Spring Boot service to share view/share call of duty gunsmith loadout app</description>
     <properties>
-        <java.version>8</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
